@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Core Values"
+date:   2024-04-19 17:02:49 +0200
+categories: jekyll update
+---
 # Clinical Data Science: Core Values
 ## Wir befolgen gute wissenschaftliche Praxis
 Integrität: Wir stehen hinter unseren Entscheidungen.
@@ -38,4 +44,3 @@ Einfach mal machen.
 Reflektierte Arbeitskultur: Wir nutzen Retrospektiven um unsere Zusammenarbeit zu verbessern.
 Offene Arbeitskultur: Wir sind offen für neue Ideen und Konzepte der Zusammenarbeit und probieren diese aus.
 Spaß an der Arbeit: Wir erhalten uns den Spaß an der Arbeit und feiern unsere Erfolge.
-
