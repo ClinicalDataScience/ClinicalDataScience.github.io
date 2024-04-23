@@ -1,0 +1,9 @@
+# main links
+ main:
+   - title: "All Posts"
+     url: /all-posts/
+   - title: "by Year"
+     url: /years/
+   - title: "by Category"
+     url: /categories/
+     

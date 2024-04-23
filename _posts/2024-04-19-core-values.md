@@ -1,11 +1,14 @@
 ---
-layout: post
-title:  Core Values
-date:   2024-04-19 17:02:49 +0200
-description:    Defining core values in our research group helped us reflect on what we want and who we are.
-img:    /assets/imgs/2024-04-19-core-values.jpeg
-
+title: Core Values
+categories: academia
+date: 2024-04-19 17:02:49 +0200
+header:
+  teaser: /assets/images/corevalues.jpeg
+  overlay_image: /assets/images/corevalues.jpeg
+layout: single
 ---
+Defining core values in our research group helped us reflect on what we want and who we are. This is what we came up with.
+
 # Clinical Data Science: Core Values
 
 ## Wir befolgen gute wissenschaftliche Praxis
