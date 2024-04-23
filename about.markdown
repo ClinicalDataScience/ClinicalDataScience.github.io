@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+The clinical data science group employs advanced statistics, machine learning and computer vision techniques in the context of clinical radiology to enable fast and precise AI-supported diagnosis and prognostication.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Our direct embedding into the Department of Radiology provides close cooperation and interdisciplinary interaction with radiologists.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+This gives us the opportunity to identify and address clinical needs and to develop and evaluate AI solutions directly in the clinical context.
 
-
-[jekyll-organization]: https://github.com/jekyll
+For more information, check out our [homepage](https://www.lmu-klinikum.de/radiologie/forschung/clinical-data-science/0e8a3ac188dad3f9)

@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "Core Values"
+title:  Core Values
 date:   2024-04-19 17:02:49 +0200
-categories: jekyll update
+description:    Defining core values in our research group helped us reflect on what we want and who we are.
+img:    /assets/imgs/2024-04-19-core-values.jpeg
+
 ---
 # Clinical Data Science: Core Values
 
