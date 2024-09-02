@@ -9,7 +9,7 @@ header:
 layout: single
 ---
 
-One of the mayor learnings was to just get shit done - get started and do it. The rest will follow and as you can see, it led to **this**. 
+One of the major learnings was to just get things done - get started and do it. The rest will follow and as you can see, it led to **this**. 
 
 # Getting Started
 
