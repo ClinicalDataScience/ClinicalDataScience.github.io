@@ -9,6 +9,8 @@ header:
 layout: single
 ---
 
+Our group wiki is one of the most visited websites - and here is why!
+
 # On our wiki culture
 One of the first thing new members of our group are pointed to, is our wiki. It contains all kinds of useful information, mostly information specific to our group. You want to know how to setup mailbox of the group? You want to know which PCs have which hardware? You want to know the agenda for the next lab meeting? The wiki has you covered!
 In the following, I want to describe how our wiki and our "wiki culture" works, and why you might consider to start one for your research group.
